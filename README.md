@@ -13,7 +13,6 @@
 - Saved, committed, and pushed the README.md file to GitHub.
 
 ## What Issues I Ran Into and How I Solved Them
-
 ### Issue: I was new to using Cursor with GitHub.
 **Solution:** I followed the repository connection steps carefully and opened the repository in Cursor.
 ### Issue: I needed to create the README file in the correct location.
