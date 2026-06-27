@@ -18,4 +18,8 @@
 ### Issue: I needed to create the README file in the correct location.
 **Solution:** I created README.md inside the repository folder so it would be tracked by Git.
 ### Issue: I encountered an authentication error when pushing to GitHub.
+<<<<<<< HEAD
 **Solution:** I investigated the error, re-authenticated GitHub, and retried the push. After authentication was fixed, I successfully pushed the repository and verified that the README.md file was available on GitHub.
+=======
+**Solution:** I investigated the error, re-authenticated GitHub, and retried the push. After authentication was fixed, I successfully pushed the repository and verified that the README.md file was available on GitHub.
+>>>>>>> 787775354fa6946405e549103d97753019e912d0
