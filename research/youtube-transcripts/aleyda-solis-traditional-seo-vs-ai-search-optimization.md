@@ -14,9 +14,9 @@ This video was selected because it is relevant to AI search, SEO strategy, techn
 
 ## Key Takeaways
 
-* Placeholder takeaway 1
-* Placeholder takeaway 2
-* Placeholder takeaway 3
+* The concepts between traditional SEO and GEO/AEO aren't a full rebuild — the optimization areas largely overlap, but execution changes because AI engines use query fan-out (generating multiple sub-queries from one prompt) and retrieve at the passage level, not the page level.
+* Ranking as a metric is now broken for AI search — what matters is visibility in the right context. New KPIs like AI citation count, retrieval confidence score, and semantic density are replacing position tracking.
+* Originality is the missing conversation — churning out FAQ-style content chunks to match AI formats just creates more commodity content. First-party data, genuine expertise, and original perspective are what actually get cited.
 
 ## Transcript
 
