@@ -16,7 +16,7 @@ I selected posts related to AI-powered SEO content production, SEO strategy, top
 
 ## Post 1
 
-**Post URL:** Phttps://www.linkedin.com/posts/bernardjhuang_i-thought-ai-agents-would-buy-me-time-and-activity-7472369892545961984-L6Kg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
+**Post URL:** https://www.linkedin.com/posts/bernardjhuang_i-thought-ai-agents-would-buy-me-time-and-activity-7472369892545961984-L6Kg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
 
 **Topic:** AI agents
 
