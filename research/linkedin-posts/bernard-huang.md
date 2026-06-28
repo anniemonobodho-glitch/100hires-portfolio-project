@@ -17,6 +17,7 @@ I selected posts related to AI-powered SEO content production, SEO strategy, top
 ## Post 1
 
 **Post URL:** Phttps://www.linkedin.com/posts/bernardjhuang_i-thought-ai-agents-would-buy-me-time-and-activity-7472369892545961984-L6Kg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
+
 **Topic:** AI agents
 
 **Brief summary:**  
@@ -32,7 +33,8 @@ Tech Stack Sophistication: Referencing specific 2026 agent frameworks proves you
 
 ## Post 2
 
-**Post URL:** https://www.linkedin.com/posts/bernardjhuang_weve-been-doing-extensive-research-into-activity-7426678788962410496-Yric?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw  
+**Post URL:** https://www.linkedin.com/posts/bernardjhuang_weve-been-doing-extensive-research-into-activity-7426678788962410496-Yric?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
+
 **Topic:** Technical Prompt Engineering, LLM Variance, and AI Citation Algorithms.
 
 **Brief summary:**  

@@ -16,7 +16,8 @@ I selected posts related to AI-powered SEO content production, SEO strategy, top
 
 ## Post 1
 
-**Post URL:** https://www.linkedin.com/posts/aleyda_after-sharing-the-3-layer-framework-to-activity-7475635998383652864-Mz8q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw  
+**Post URL:** https://www.linkedin.com/posts/aleyda_after-sharing-the-3-layer-framework-to-activity-7475635998383652864-Mz8q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
+
 **Topic:** AI Search Presence, Readiness and Business Impact
 
 **Brief summary:**  
@@ -34,6 +35,7 @@ Ready-to-Use Analytics Chapter: Provides an instant, professional dashboard blue
 ## Post 2
 
 **Post URL:** https://www.linkedin.com/posts/aleyda_spam-in-the-age-of-ai-search-a-must-activity-7465762286217916416-7hTi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
+
 **Topic:** Spam in the age of AI Search
 
 **Brief summary:**  
@@ -50,6 +52,7 @@ Client/Stakeholder Management: It demonstrates that you know how to educate stak
 ## Post 3
 
 **Post URL:** https://www.linkedin.com/posts/aleyda_how-to-build-a-representative-ai-search-activity-7469723521947131905-6DVK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
+
 **Topic:** How to Build a Representative AI Search Prompt Library for Better AI Visibility Measurement
 
 **Brief summary:**  
