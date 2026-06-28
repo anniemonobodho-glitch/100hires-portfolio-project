@@ -30,6 +30,8 @@ Maximizes Page Value: Instead of forcing teams to build endless new pages, it te
 
 Targets the True Citation Engine: Industry data shows that ranking for fan-out sub-queries is one of the strongest statistical correlations to winning an AI search citation. This framework gives your playbook the exact playbook chapter needed to exploit that behavior.
 
+---
+
 ## Post 2
 
 **Post URL:** https://www.linkedin.com/posts/cyrusshepard_most-ranking-declines-in-2026-arent-about-activity-7473093112039649282-KH0L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cPj4B6nGQlkmHCda9Th_PMbOOaQ1WiOw
@@ -45,3 +47,5 @@ Provides an Automated Audit Framework: It gives your playbook a concrete bluepri
 Defines "Non-Commodity" Standards: Rather than giving vague advice to "write high-quality content," it lists the exact criteria (first-party info, format, task completion) needed to programmatically audit and future-proof AI-generated text against algorithm penalties.
 
 Aligns Content Ingestion with AI Priorities: Teaches teams how to systematically diagnose traffic drops by looking at types of content, helping a B2B SaaS company pivot away from programmatic text generation toward value-add information gain.
+
+---
